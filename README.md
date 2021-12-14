@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-#### My name is Thibault Barrat and I'm a junior web developper working in Nancy, France.
-I'm mostly using `.html`, `.css`, `.js`, `.php` and I'm currently learning React.
+#### My name is Thibault Barrat and I'm a web developper specialized in React.js working in Nancy, France.
+I'm mostly using `React.js`, `.html`, `.css`, `.scss`, `.js`, `.php` and I'm currently learning `TypeScript`.
 
 #### How to reach me :
 - [Twitter account](https://twitter.com/thib_bar)
