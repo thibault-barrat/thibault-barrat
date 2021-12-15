@@ -8,3 +8,4 @@ I'm mostly using `React.js`, `.html`, `.css`, `.scss`, `.js`, `.php` and I'm cur
 - [Website](https://www.thibault-barrat.com/)
 - [Email](mailto:contact@thibault-barrat.com) 
 
+![](https://komarev.com/ghpvc/?username=thibault-barrat)
