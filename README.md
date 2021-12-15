@@ -9,3 +9,9 @@ I'm mostly using `React.js`, `.html`, `.css`, `.scss`, `.js`, `.php` and I'm cur
 - [Email](mailto:contact@thibault-barrat.com) 
 
 ![](https://komarev.com/ghpvc/?username=thibault-barrat)
+
+[![Thibault Barrat's GitHub stats](https://github-readme-stats.vercel.app/api?username=thibault-barrat)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thibault-barrat)](https://github.com/anuraghazra/github-readme-stats)
+
+
