@@ -1,4 +1,4 @@
-![Thibault Barrat Cover](https://res.cloudinary.com/damqzwhnk/image/upload/v1640944023/cover-thibault-barrat_eytdud.png)
+![Thibault Barrat Cover](https://res.cloudinary.com/damqzwhnk/image/upload/v1640947933/cover-thibault-barrat_k7zjti.png)
 
 ### Technical stack
 |<img align="center" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />|<img align="center" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />|<img align="center" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />|<img align="center" alt="React" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />|<img align="center" alt="Redux" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />|
